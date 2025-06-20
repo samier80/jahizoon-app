@@ -1,0 +1,12 @@
+{
+  "name": "jahizoon-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^10.16.1",
+    "lucide-react": "^0.324.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
